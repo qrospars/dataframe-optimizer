@@ -1,0 +1,8 @@
+setup.py
+dataframe_optimizer/__init__.py
+dataframe_optimizer/main.py
+dataframe_optimizer.egg-info/PKG-INFO
+dataframe_optimizer.egg-info/SOURCES.txt
+dataframe_optimizer.egg-info/dependency_links.txt
+dataframe_optimizer.egg-info/requires.txt
+dataframe_optimizer.egg-info/top_level.txt
