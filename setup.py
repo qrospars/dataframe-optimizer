@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='dataframe_optimizer',
-    version='0.1.0',
+    version='0.1.1',
     description='A Python package that give utils to optimize Pandas dataframes',
     url='https://github.com/qrospars/dataframe-optimizer',
     author='Quentin Rospars',
